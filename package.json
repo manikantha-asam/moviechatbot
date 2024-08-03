@@ -1,0 +1,14 @@
+{
+    "name": "telegram-movie-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot to fetch movie details from IMDb.",
+    "main": "moviechatbotapi.js",
+    "scripts": {
+      "start": "node moviechatbotapi.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "node-telegram-bot-api": "^0.30.0"
+    }
+  }
+  
